@@ -1,0 +1,24 @@
+{
+  "name": "svg-d3",
+  "version": "0.0.1",
+  "description": "demonstration how integrate svg graphics into d3",
+  "main": "index.htm",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EnergeticPixels/svg-d3.git"
+  },
+  "keywords": [
+    "d3",
+    "svg",
+    "html"
+  ],
+  "author": "anthony jackman <energeticpixels@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/EnergeticPixels/svg-d3/issues"
+  },
+  "homepage": "https://github.com/EnergeticPixels/svg-d3#readme"
+}
